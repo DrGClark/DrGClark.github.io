@@ -198,7 +198,7 @@ keep_files:
 # Plug-ins
 plugins:
   # - jekyll-archives-v2
-  - jekyll-archives-v2
+  - jekyll-archives
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -324,7 +324,7 @@ filtered_bibtex_keywords:
     slides,
     supp,
     video,
-    website,
+    website
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
