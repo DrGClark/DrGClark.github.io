@@ -146,8 +146,8 @@ collections:
   books:
     output: true
   news:
-    # defaults:
-    #   layout: post
+    defaults:
+      layout: post
     output: true
   projects:
     output: true
@@ -197,7 +197,6 @@ keep_files:
 
 # Plug-ins
 plugins:
-  # - jekyll-archives-v2
   - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
@@ -222,11 +221,7 @@ defaults:
       path: "assets"
     values:
       sitemap: false
-  - scope:
-      path: "" # applies site-wide
-      type: news # applies to the 'news' collection
-    values:
-      layout: post # default layout for items in _news/
+
 sass:
   style: compressed
 
