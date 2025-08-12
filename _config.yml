@@ -8,7 +8,7 @@ middle_name: R.
 last_name: Name
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
-description: > 
+description: >
   Assistant Professor of Computer Science, University of South Alabama.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -198,7 +198,7 @@ keep_files:
 # Plug-ins
 plugins:
   # - jekyll-archives-v2
-  - jekyll-archives
+  - jekyll-archives-v2
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -223,10 +223,10 @@ defaults:
     values:
       sitemap: false
   - scope:
-      path: ""        # applies site-wide
-      type: news      # applies to the 'news' collection
+      path: "" # applies site-wide
+      type: news # applies to the 'news' collection
     values:
-      layout: post    # default layout for items in _news/
+      layout: post # default layout for items in _news/
 sass:
   style: compressed
 
@@ -324,7 +324,7 @@ filtered_bibtex_keywords:
     slides,
     supp,
     video,
-    website
+    website,
   ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
