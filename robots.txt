@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://DrGClark.github.io/sitemap.xml
+Sitemap: https://drgclark.github.io/sitemap.xml
