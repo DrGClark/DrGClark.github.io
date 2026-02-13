@@ -11,7 +11,9 @@ related_publications: true
 ## Overview
 
 <div class="text-center mb-4">
-  <img src="/assets/img/robot_pathfinding.gif" alt="Robot path planning simulation" class="img-fluid rounded" style="max-width: 100%;" />
+  <video autoplay loop muted playsinline class="img-fluid rounded" style="max-width: 100%;">
+    <source src="/assets/video/robot_pathfinding.mp4" type="video/mp4" />
+  </video>
   <div class="caption mt-2">Autonomous robot navigation in a digital twin environment</div>
 </div>
 
