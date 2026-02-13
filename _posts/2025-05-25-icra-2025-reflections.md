@@ -41,6 +41,7 @@ Our research operates at this important intersection—not just making robots mo
 ## Networking and Collaboration
 
 Conferences are invaluable for building connections. I had productive discussions with researchers working on:
+
 - Adversarial attacks on object detection systems
 - Formal verification for autonomous systems
 - Privacy-preserving robot perception
@@ -64,4 +65,4 @@ I'm grateful for the opportunity to participate in ICRA 2025 and look forward to
 
 ---
 
-*For students interested in attending robotics conferences, I encourage you to submit your work to venues like ICRA, IROS, and regional conferences. Conference participation is an essential part of graduate research training.*
+_For students interested in attending robotics conferences, I encourage you to submit your work to venues like ICRA, IROS, and regional conferences. Conference participation is an essential part of graduate research training._

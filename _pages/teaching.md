@@ -62,29 +62,36 @@ Special topics in computer science chosen to reflect current developments in the
 ### Current Graduate Students
 
 **MS Thesis Chair:**
+
 - Kylie Arnett — "Using Siamese Neural Networks to Effectively Detect Trojans in FPGAs, When Trojans Manipulate Encryption Operations at the Bitstream Level" (Jan 2025–Present)
 
 **MS Thesis Committee:**
+
 - Eric Diep — "Developing a Framework for Microchip Design Recovery" (Jan 2025–Present)
 
 **PhD Dissertation Committee:**
+
 - Rick Green — Information Systems and Technology (Jan 2024–Present)
 
 **Directed Studies (Current):**
+
 - Samiul Alam — "Understanding the Current Applications of NLPSA and Algorithms of Robot Path Planning" (Aug–Dec 2025)
 
 ### Completed Theses and Dissertations
 
 **Master's Theses (Chair):**
+
 - William Locklier (2025) — "Nonlinear Phase Space Analysis for Anomaly Detection in ROS 2 Communications: Detecting Man-in-the-Middle Attacks in Simulated Environments"
 - Thanh Le (2025) — "Adversarial Attacks and Defense Methods in Robotic Systems"
 - Berk Kivilcim (2025) — "Frequency Learning Power Analysis Multi-Device Attack"
 - Destin Hinkle (2024) — "Classifying Supersonic Frequencies for Active Acoustic Side-Channel Exploitation"
 
 **Undergraduate Honors Thesis:**
+
 - Miguel Gapud (2025) — "A Comparison of Robot Path Planning Algorithms"
 
 **PhD Dissertations (Committee Member, Completed):**
+
 - Anthony Monge (2025) — "Use of Intrusion Detection Systems in Vehicular Controller Area Networks to Preclude Remote Attacks"
 - Jeff Holifield (2025) — "Out-of-Band Anomaly Detection for Real Time Operating Systems"
 - Naveen Pendli (2025) — "A Novel Blockchain Based Framework for Secure and Privacy Preserving E-Governance System"

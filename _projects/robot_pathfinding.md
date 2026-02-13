@@ -21,10 +21,12 @@ This project investigates the effectiveness of different path planning algorithm
 ### Path Planning Methods
 
 #### Classical Approaches
-- **Hybrid A***: Combines traditional A* with continuous space planning
-- **D* Lite**: Incremental heuristic search for dynamic environments
+
+- **Hybrid A\***: Combines traditional A\* with continuous space planning
+- **D\* Lite**: Incremental heuristic search for dynamic environments
 
 #### Machine Learning Methods
+
 - **Proximal Policy Optimization (PPO)**: Deep reinforcement learning for end-to-end navigation
 - **Deep Q-Networks (DQN)**: Value-based learning for discrete action spaces
 
@@ -37,6 +39,7 @@ This project investigates the effectiveness of different path planning algorithm
 ### Applications
 
 This research has implications for:
+
 - Indoor autonomous navigation
 - Warehouse and logistics automation
 - Search and rescue robotics
@@ -53,4 +56,4 @@ The digital twin of Shelby Hall and the Clearpath Jackal UGV testbed developed d
 
 ---
 
-*This work demonstrates the practical application of both classical computer science algorithms and modern AI techniques to real-world robotics challenges.*
+_This work demonstrates the practical application of both classical computer science algorithms and modern AI techniques to real-world robotics challenges._

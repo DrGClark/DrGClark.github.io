@@ -15,18 +15,21 @@ This project investigates various side-channel attack vectors that can compromis
 ### Research Focus
 
 #### Side-Channel Attack Methods
+
 - Differential Power Analysis (DPA)
 - Electromagnetic (EM) radiation analysis
 - Acoustic side-channel exploitation
 - Timing attacks
 
 #### FPGA Security
+
 - Hardware trojan detection in FPGAs
 - Bitstream security analysis
 - Design recovery and reverse engineering prevention
 - Secure FPGA implementations
 
 #### Countermeasures
+
 - Hardware-based intrusion detection
 - Power analysis-resistant designs
 - EM shielding and isolation techniques
@@ -35,6 +38,7 @@ This project investigates various side-channel attack vectors that can compromis
 ### Lab Capabilities
 
 Research is conducted using:
+
 - High-precision oscilloscopes for power analysis
 - EM probes and spectrum analyzers
 - Laboratory microscopes for invasive analysis
@@ -56,4 +60,4 @@ Research is conducted using:
 
 ---
 
-*This research contributes to the broader field of hardware assurance and trusted electronics.*
+_This research contributes to the broader field of hardware assurance and trusted electronics._

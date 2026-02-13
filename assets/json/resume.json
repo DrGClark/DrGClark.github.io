@@ -225,25 +225,13 @@
       "name": "Robotics",
       "level": "Expert",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Autonomous Systems",
-        "Machine Learning Security",
-        "Path Planning",
-        "Robot Operating System (ROS)",
-        "Digital Twins"
-      ]
+      "keywords": ["Autonomous Systems", "Machine Learning Security", "Path Planning", "Robot Operating System (ROS)", "Digital Twins"]
     },
     {
       "name": "Programming",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C/C++",
-        "Java",
-        "Embedded Systems",
-        "FPGA/VHDL"
-      ]
+      "keywords": ["Python", "C/C++", "Java", "Embedded Systems", "FPGA/VHDL"]
     }
   ],
   "languages": [
@@ -257,23 +245,12 @@
     {
       "name": "Cybersecurity Research",
       "icon": "fa-solid fa-lock",
-      "keywords": [
-        "Hardware Security",
-        "Side-Channel Attacks",
-        "Adversarial Machine Learning",
-        "Industrial Control Systems",
-        "Edge AI Security"
-      ]
+      "keywords": ["Hardware Security", "Side-Channel Attacks", "Adversarial Machine Learning", "Industrial Control Systems", "Edge AI Security"]
     },
     {
       "name": "Robotics",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Autonomous Vehicles",
-        "Cyber-Physical Security",
-        "Robot Path Planning",
-        "Intrusion Detection in ROS 2"
-      ]
+      "keywords": ["Autonomous Vehicles", "Cyber-Physical Security", "Robot Path Planning", "Intrusion Detection in ROS 2"]
     }
   ],
   "references": [],

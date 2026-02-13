@@ -35,6 +35,7 @@ Before joining USA in August 2022, I was an Assistant Professor of Computer Info
 I earned my Ph.D. in Computing (2019), M.S. in Computer Science (1999), and B.S.E.E. in Electrical Engineering (1992), all from the University of South Alabama. I am a licensed Professional Engineer in Alabama (inactive), a Senior Member of IEEE, and a member of the Association for Computing Machinery (ACM).
 
 My current research interests include:
+
 - Cybersecurity in robotic and autonomous systems
 - Hardware security and side-channel analysis (power, EM, acoustic)
 - Adversarial machine learning and defense for autonomous platforms

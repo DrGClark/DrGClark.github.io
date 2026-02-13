@@ -13,6 +13,7 @@ Field-Programmable Gate Arrays (FPGAs) have become essential components in many 
 ## What Are Hardware Trojans?
 
 Hardware trojans are malicious modifications to integrated circuits that can:
+
 - Leak sensitive information through side channels
 - Create backdoors for unauthorized access
 - Degrade system performance
@@ -34,21 +35,26 @@ FPGAs present special challenges because:
 Our research explores several detection methodologies:
 
 ### Side-Channel Analysis
+
 Monitoring power consumption, electromagnetic radiation, and timing characteristics can reveal anomalous behavior indicative of trojan activity.
 
 ### Machine Learning for Detection
+
 We're investigating the use of neural networks, particularly Siamese networks, to identify trojan-infected designs by learning characteristic patterns in:
+
 - Power traces
 - Timing behavior
 - Resource utilization patterns
 - Signal transitions
 
 ### Structural Analysis
+
 Examining the structure of FPGA configurations to identify suspicious logic blocks or unexpected interconnections.
 
 ## Defense Mechanisms
 
 Protecting FPGAs requires multiple approaches:
+
 - **Bitstream Encryption**: Protecting configuration data
 - **Authentication**: Verifying the integrity of designs and IP cores
 - **Runtime Monitoring**: Detecting anomalous behavior during operation
@@ -62,4 +68,4 @@ The challenge of securing FPGAs against sophisticated hardware trojans remains a
 
 ---
 
-*Graduate students interested in hardware security research are encouraged to [contact me](/contact/) about research opportunities.*
+_Graduate students interested in hardware security research are encouraged to [contact me](/contact/) about research opportunities._

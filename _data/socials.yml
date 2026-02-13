@@ -23,6 +23,7 @@ email: georgewclark@southalabama.edu # your email address
 # leetcode_id: # your LeetCode id
 linkedin_username: georgewclark # your LinkedIn user name
 x_username: George_Clark # your X handle
+scholar_userid: SgEaHHsAAAAJ # your Google Scholar ID
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -32,7 +33,7 @@ x_username: George_Clark # your X handle
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
 rss_icon: true # comment this line to hide the RSS icon
-# scholar_userid: # your Google Scholar ID - Add if available
+# scholar_userid: # (moved above, after x_username)
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id

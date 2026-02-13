@@ -13,6 +13,7 @@ I'm pleased to announce that our paper "Classifying Supersonic Frequencies for A
 ## What Are Acoustic Side-Channels?
 
 Traditional side-channel attacks exploit unintended information leakage through:
+
 - Power consumption (Differential Power Analysis)
 - Electromagnetic radiation
 - Timing variations
@@ -42,6 +43,7 @@ Our work demonstrates:
 This research highlights the importance of considering non-traditional attack vectors in security design. As we develop more sophisticated defenses against conventional side-channel attacks, adversaries may turn to alternative channels like acoustic emissions.
 
 Organizations handling sensitive information should consider:
+
 - **Physical Security**: Controlling acoustic access to secure areas
 - **Noise Generation**: Adding acoustic countermeasures to mask device emissions
 - **Secure Hardware Design**: Minimizing acoustic emissions from cryptographic components
@@ -58,4 +60,4 @@ For questions about this research or potential collaborations, feel free to reac
 
 ---
 
-*This post is part of our ongoing research dissemination efforts. Check our [publications page](/publications/) for more research outputs.*
+_This post is part of our ongoing research dissemination efforts. Check our [publications page](/publications/) for more research outputs._

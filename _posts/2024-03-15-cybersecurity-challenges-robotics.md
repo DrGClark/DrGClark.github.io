@@ -42,4 +42,4 @@ The intersection of robotics, machine learning, and cybersecurity presents excit
 
 ---
 
-*For more details on our research in this area, see our [publications](/publications/) or contact me about collaboration opportunities.*
+_For more details on our research in this area, see our [publications](/publications/) or contact me about collaboration opportunities._

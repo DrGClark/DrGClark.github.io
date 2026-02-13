@@ -15,18 +15,21 @@ I am currently seeking motivated graduate students to join my research group at 
 Our lab focuses on several interconnected research themes:
 
 ### 1. Robotic and Autonomous Systems Security
+
 - Adversarial attacks on machine learning models in autonomous vehicles
 - Intrusion detection for Robot Operating System (ROS) communications
 - Cyber-physical security for industrial control systems
 - Security of path planning and navigation algorithms
 
 ### 2. Hardware Security
+
 - Side-channel analysis (power, electromagnetic, acoustic)
 - FPGA security and hardware trojan detection
 - Secure hardware design and countermeasures
 - Microchip design recovery and reverse engineering
 
 ### 3. Cyber-Physical Systems
+
 - Automotive cybersecurity and CAN bus security
 - Industrial IoT security
 - Critical infrastructure protection
@@ -35,18 +38,21 @@ Our lab focuses on several interconnected research themes:
 ## What We Offer
 
 **Research Environment:**
+
 - Active research lab with state-of-the-art equipment
 - Collaboration with industry and government partners
 - Access to robotic platforms (Clearpath Jackal UGV)
 - Hardware security lab with power analysis and EM measurement equipment
 
 **Professional Development:**
+
 - Conference travel support
 - Publication opportunities in top-tier venues
 - Mentorship and career guidance
 - Networking with cybersecurity professionals
 
 **Potential Funding:**
+
 - Research assistantships available
 - NSF CyberCorps® Scholarship for Service (with service commitment)
 - Faculty development grant funding
@@ -55,6 +61,7 @@ Our lab focuses on several interconnected research themes:
 ## Recent Student Successes
 
 Our students have:
+
 - Published in ACM journals and IEEE conferences
 - Won awards at regional conferences (1st place ACM Mid-Southeast)
 - Secured positions in industry and government
@@ -63,6 +70,7 @@ Our students have:
 ## Current Projects
 
 Students can contribute to ongoing projects including:
+
 - Using neural networks to detect FPGA trojans
 - Nonlinear phase space analysis for anomaly detection in robotic systems
 - Multi-device power analysis attacks
@@ -72,6 +80,7 @@ Students can contribute to ongoing projects including:
 ## Qualifications
 
 **Ideal candidates have:**
+
 - Strong programming skills (Python, C/C++, Java)
 - Interest in cybersecurity and/or robotics
 - Background in computer science, electrical engineering, or related field
@@ -79,6 +88,7 @@ Students can contribute to ongoing projects including:
 - Strong written and verbal communication skills
 
 **Helpful but not required:**
+
 - Experience with machine learning frameworks
 - Knowledge of embedded systems
 - Familiarity with ROS
@@ -110,4 +120,4 @@ I look forward to hearing from motivated students ready to tackle challenging pr
 
 ---
 
-*Visit our [teaching page](/teaching/) to learn more about courses and student mentorship in our group.*
+_Visit our [teaching page](/teaching/) to learn more about courses and student mentorship in our group._

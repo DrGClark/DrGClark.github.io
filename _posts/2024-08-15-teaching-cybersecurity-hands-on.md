@@ -44,15 +44,19 @@ This course focuses on securing systems that interact with the physical world:
 ## Key Principles
 
 ### 1. Learn by Breaking
+
 The best way to learn security is to break things (safely and ethically). Students gain deeper understanding when they successfully exploit a vulnerability than from reading about it.
 
 ### 2. Understand Both Sides
+
 We teach both offensive techniques (to understand threats) and defensive mechanisms (to protect systems). Understanding the attacker's perspective is crucial for building robust defenses.
 
 ### 3. Real-World Context
+
 Every lab exercise connects to real-world scenarios. Students understand why these skills matter when they see applications to autonomous vehicles, medical devices, or critical infrastructure.
 
 ### 4. Ethical Framework
+
 We emphasize responsible disclosure, legal boundaries, and ethical considerations throughout the course. Technical skills must be paired with professional responsibility.
 
 ## Student Outcomes
@@ -91,4 +95,4 @@ Teaching cybersecurity through hands-on labs is challenging but immensely reward
 
 ---
 
-*For prospective students: Check out our [teaching page](/teaching/) to learn more about our courses and research opportunities.*
+_For prospective students: Check out our [teaching page](/teaching/) to learn more about our courses and research opportunities._

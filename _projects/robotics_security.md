@@ -15,16 +15,19 @@ This research focuses on identifying vulnerabilities and developing defense mech
 ### Key Research Areas
 
 #### Machine Learning Security
+
 - Adversarial attacks on perception systems
 - Defense mechanisms for deep learning models
 - Robustness testing in simulated and physical environments
 
 #### Hardware Security
+
 - Side-channel analysis attacks (power, EM, acoustic)
 - FPGA security and trojan detection
 - Secure hardware implementations
 
 #### Cyber-Physical Systems
+
 - Intrusion detection for robotic communications
 - Security of ROS (Robot Operating System) networks
 - Automotive cybersecurity
@@ -42,6 +45,7 @@ Related work has been published in IEEE conferences and the Journal of Defense M
 ### Funding
 
 This research is supported by:
+
 - **NSF CyberCorps® Scholarship for Service** ($3.3M, Co-PI, 2022–2027)
 - **Department of Defense (DoD) — Project Orion** ($8M, Co-PI, 2023–2026)
 - **NSF SARJ — Edge AI Cybersecurity** ($15K, PI, 2024–2025)
@@ -50,4 +54,4 @@ This research is supported by:
 
 ---
 
-*For more information about this research or collaboration opportunities, please contact Dr. Clark.*
+_For more information about this research or collaboration opportunities, please contact Dr. Clark._

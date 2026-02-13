@@ -6,4 +6,3 @@ related_posts: false
 ---
 
 Now serving as Faculty Advisor for the USA Robotics Club and the Society of Automotive Engineers student chapter.
-
