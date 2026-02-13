@@ -38,6 +38,7 @@ table {
 a,
 table.table a {
   color: var(--global-theme-color);
+  font-weight: bold;
 
   &:hover {
     color: var(--global-theme-color);
@@ -198,7 +199,8 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: monospace;
+    font-family: "Roboto", sans-serif;
+    font-size: 0.9rem;
 
     p {
       display: inline-block;
