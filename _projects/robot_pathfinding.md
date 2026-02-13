@@ -2,13 +2,18 @@
 layout: page
 title: Robot Path Planning & Digital Twins
 description: Comparing classical and machine learning approaches to autonomous navigation in simulated environments
-img: assets/img/robot_pathfinding.gif
+img: assets/img/robot_pathfinding.jpg
 importance: 3
 category: research
 related_publications: true
 ---
 
 ## Overview
+
+<div class="text-center mb-4">
+  <img src="/assets/img/robot_pathfinding.gif" alt="Robot path planning simulation" class="img-fluid rounded" style="max-width: 100%;" />
+  <div class="caption mt-2">Autonomous robot navigation in a digital twin environment</div>
+</div>
 
 This project investigates the effectiveness of different path planning algorithms for autonomous robots, comparing traditional methods like Hybrid A* and D* Lite with modern reinforcement learning approaches using deep neural networks.
 
