@@ -129,7 +129,7 @@ ninja.data = [{
           section: "News",},{id: "news-attended-ieee-international-conference-on-robotics-and-automation-icra-in-atlanta-ga",
           title: 'Attended IEEE International Conference on Robotics and Automation (ICRA) in Atlanta, GA.',
           description: "",
-          section: "News",},{id: "news-nsf-career-proposal-submitted-adversarial-attack-detection-on-robotic-ai-systems-via-side-channel-phase-space-analysis-472-228-currently-under-review",
+          section: "News",},{id: "news-nsf-career-proposal-submitted-adversarial-attack-detection-on-robotic-ai-systems-via-side-channel-phase-space-analysis-currently-under-review",
           title: 'NSF CAREER proposal submitted — “Adversarial Attack Detection on Robotic AI Systems via...',
           description: "",
           section: "News",},{id: "news-now-serving-as-faculty-advisor-for-the-usa-robotics-club-and-the-society-of-automotive-engineers-student-chapter",
