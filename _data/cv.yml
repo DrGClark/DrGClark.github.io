@@ -2,96 +2,214 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: George W. Clark
+    - name: Email
+      value: georgewclark@southalabama.edu
+    - name: Location
+      value: Mobile, Alabama, USA
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. in Computing
+      institution: University of South Alabama, Mobile, AL
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - "Dissertation: Detection and defense of cyberattacks on the machine learning control of robotic systems"
+        - Research on machine learning security vulnerabilities in cyber-physical systems
+    - title: M.S. in Computer Science
+      institution: University of South Alabama, Mobile, AL
+      year: 1999
+    - title: B.S.E.E. in Electrical Engineering
+      institution: University of South Alabama, Mobile, AL
+      year: 1992
 
-- title: Experience
+- title: Academic Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Assistant Professor of Computer Science
+      institution: University of South Alabama, School of Computing
+      year: Aug 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Teaching courses in computer architecture, cybersecurity, cyber-physical security, hardware security, and network security
+        - Leading research in robotics cybersecurity, hardware security, and side-channel analysis
+        - Supervising MS thesis students and serving on PhD dissertation committees
+        - Member of Software Protection Exploitation Research Group (SPERG)
+        - Participant in Southeastern Consortium for Assured Leading-Edge Semiconductors (SCALES)
+    - title: Assistant Professor of Computer Information Systems
+      institution: Spring Hill College
+      year: Aug 2018 - Aug 2022
       description:
-        - Description 1.
-        - Description 2.
+        - Taught programming, database management, information systems, and robotics courses
+        - Developed new curriculum for Introduction to Robotics (CIS 495)
+    - title: Adjunct Instructor - Computer Science
+      institution: University of South Alabama
+      year: Aug 2017 - May 2018
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Professional Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Senior Control Systems Engineer
+      institution: Precision Engineering Inc.
+      year: Jun 2007 - Jan 2017
+    - title: Engineering Manager/Software Engineer
+      institution: Mentor Graphics Corporation
+      year: Apr 2000 - Apr 2007
+    - title: Software Engineer
+      institution: Sterling Commerce Inc.
+      year: Apr 1999 - Apr 2000
+    - title: Embedded Software Engineer/Team Lead
+      institution: Accelerated Technology Inc.
+      year: Dec 1997 - Apr 1999
+    - title: Software Engineer/Manager
+      institution: Omniphone Inc.
+      year: Oct 1992 - Dec 1997
+
+- title: Contracts, Grants and Sponsored Research
+  type: time_table
+  contents:
+    - title: "NSF CAREER (Under Review)"
+      institution: National Science Foundation
+      year: Jul 2025
+      description:
+        - "PI: George W. Clark"
+        - "$472,228 — Adversarial attack detection on robotic AI systems via side-channel phase space analysis"
+        - "Submitted July 15, 2025"
+    - title: "Detecting Man in the Middle Attacks in Robot Communications Using a Nonlinear Phase Space Algorithm"
+      institution: University of South Alabama Faculty Development Grant
+      year: 2025 - 2026
+      description:
+        - "PI: George W. Clark"
+        - "$25,000"
+    - title: "Project Orion"
+      institution: Department of Defense (DoD)
+      year: 2023 - 2026
+      description:
+        - "PI: J. T. McDonald; Co-PI: G. W. Clark, A. Segev, J. D. Shropshire"
+        - "$8,000,000"
+    - title: "An Investigation of Cyberattacks on Edge AI Components of Self-Driving Vehicles"
+      institution: NSF Seed Awards for Researchers at Junior Level (SARJ)
+      year: 2024 - 2025
+      description:
+        - "PI: George W. Clark"
+        - "$15,000"
+    - title: "2022 Renewal for USA Cyber Scholars Program"
+      institution: National Science Foundation (CyberCorps® Scholarship for Service)
+      year: 2022 - 2027
+      description:
+        - "PI: T. R. Andel; Co-PI: J. T. McDonald, A. M. Clark, G. W. Clark"
+        - "$3,320,319 — NSF 21-580"
+    - title: "A Comparison of Invasive vs. Non-Invasive Side-Channel Analysis Attacks"
+      institution: University of South Alabama Faculty Development Grant
+      year: 2023
+      description:
+        - "PI: George W. Clark"
+        - "$5,000"
+    - title: "Project Gemini (Under Review)"
+      institution: Department of Defense (DoD)
+      year: 2025 - 2028
+      description:
+        - "PI: J. T. McDonald; Co-PI: G. W. Clark, A. Segev, J. D. Shropshire"
+        - "$3,804,341"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Sigma Beta Delta Honors Society
+    - year: 2018
       items:
-        - Max Planck Medal
+        - Upsilon Pi Epsilon Honors Society
+    - year: 2017
+      items:
+        - 1st Place Graduate Presentation at ACM Mid-Southeast Conference
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Professional Memberships
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - "Senior Member, Institute of Electrical and Electronics Engineers (IEEE) — since 2015"
+    - "Member, Association for Computing Machinery (ACM) — since 2017"
+    - "Professional Engineer License, Alabama (inactive)"
+    - Sigma Beta Delta Honors Society
+    - Upsilon Pi Epsilon Honors Society
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Cybersecurity in Robotics
+      items:
+        - Adversarial attacks on autonomous vehicles and robots
+        - Defense mechanisms for robotic systems (adversarial patches, perception attacks)
+        - Machine learning security in cyber-physical systems
+        - Intrusion detection in ROS 2 communications
+    - title: Hardware Security
+      items:
+        - Side-channel analysis attacks (power, EM, acoustic)
+        - FPGA security and trojan detection using neural networks
+        - Counterfeit IC detection and design recovery
+        - Microchip inspection and physical assurance
+    - title: Cyber-Physical Systems
+      items:
+        - Security of industrial control systems (ICS/SCADA)
+        - Automotive cybersecurity and CAN bus security
+        - Edge AI security for self-driving vehicles
+        - Nonlinear phase space analysis for anomaly detection
+
+- title: University and Departmental Service
+  type: time_table
+  contents:
+    - title: Faculty Advisor, Society of Automotive Engineers
+      institution: University of South Alabama
+      year: Oct 2025 - Present
+    - title: Faculty Advisor, USA Robotics Club
+      institution: University of South Alabama
+      year: Jan 2025 - Present
+    - title: Committee Member, Faculty Development Council
+      institution: University of South Alabama
+      year: Aug 2023 - Present
+    - title: Committee Member, Scholarship and Financial Aid Committee
+      institution: University of South Alabama
+      year: Aug 2022 - Present
+    - title: Committee Member, Computer Science Curriculum Committee
+      institution: School of Computing
+      year: Nov 2022 - Present
+    - title: Committee Member, CS Faculty Search Committee
+      institution: School of Computing
+      year: 2023 - 2024
+
+- title: Editorial and Review Activities
+  type: list
+  contents:
+    - "Invited Manuscript Reviewer, 59th HICSS (2025)"
+    - "Invited Manuscript Reviewer, IEEE ICRA 2025 (2024)"
+    - "Invited Manuscript Reviewer, ACM Digital Threats: Research and Practice (DTRAP) (2023)"
+    - "Invited Manuscript Reviewer, Computers and Security (2023)"
+    - "Invited Manuscript Reviewer, 56th HICSS (2022)"
+    - "Invited Manuscript Reviewer, ACM DTRAP (2022)"
+    - "Invited Manuscript Reviewer, AMCIS (2018)"
+
+- title: Selected Publications
+  type: list
+  contents:
+    - "Hinkel, D., Clark, G. W., McDonald, J. T., Van de Waa, A. (2025). Classifying Supersonic Frequencies for Active Acoustic Side-Channel Exploitation. <i>Association for Computing Machinery</i>."
+    - "Clark, G. W., Andel, T. R., McDonald, J. T., Johnsten, T., Thomas, T. (2024). Detection and defense of cyberattacks on the machine learning control of robotic systems. <i>Journal of Defense Modeling and Simulation</i>, 21(2), 181-203."
+    - "Clark, G. W., McDonald, J. T., Andel, T. R. (2024). Broadening the Semiconductor Talent Pipeline with Non-Engineering Students. <i>IEEE PAINE 2024</i>."
+    - "Clark, G. W., Andel, T. R., Doran, M. V. (2019). Simulation-Based Reduction of Operational and Cybersecurity Risks in Autonomous Vehicles. <i>IEEE CogSIMA 2019</i>."
+    - "Clark, G. W., Doran, M. V., Glisson, W. B. (2018). A malicious attack on the machine learning policy of a robotic system. <i>IEEE TrustCom/BigDataSE 2018</i>."
+    - "Clark, G. W., Doran, M. V., Andel, T. R. (2017). Cybersecurity issues in robotics. <i>IEEE CogSIMA 2017</i>."
+
+- title: Teaching
+  type: list
+  contents:
+    - "CSC 320 — Computer Organization and Architecture (3 sections)"
+    - "CSC 520 — Computer Architecture (2 sections)"
+    - "CSC 485/585 — Cyber-Physical Security (6 sections)"
+    - "CSC 460/560 — Security of Hardware Implementations (2 sections)"
+    - "CSC 582 — Network Security (1 section)"
+    - "CSC 612 — Cybersecurity (2 sections)"
+    - "CSC 333 — Programming Language Theory (1 section)"
+    - "CSC 490/590 — Special Topics (2 sections)"
+    - "CIS 494/594/694 — Directed Studies (9 sections)"
+    - "CIS 595 — Research Development (4 sections)"
+    - "CIS 499/599 — Thesis (5 sections)"
