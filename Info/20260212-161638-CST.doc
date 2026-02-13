@@ -1,0 +1,454 @@
+{\rtf1\ansi\ansicpg1252\deff0\uc0\deflang1033\deflangfe1033
+\margl1440\margr1440\headery360\footery360\rtlgutter\widowctrl\formshade
+{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman{\*\falt Times New Roman};}
+{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial{\*\falt Helvetica};}
+{\f2\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial{\*\falt Arial};}
+{\f3\fswiss\fcharset0\fprq2{\*\panose 020f0502020204030204}Calibri;}
+{\f4\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f5\fmodern\fcharset0\fprq1{\*\panose 020b0609040504020204}Lucida Console;}
+{\f43\fmodern\fcharset0\fprq1{\*\panose 020b0609040504020204}Lucida Console{\*\falt Consolas};}
+{\f31502\froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria;}}
+{\colortbl;\red0\green0\blue0;
+\red0\green0\blue255;
+\red0\green255\blue255;
+\red0\green255\blue0;
+\red255\green0\blue255;
+\red255\green0\blue0;
+\red255\green255\blue0;
+\red255\green255\blue255;
+\red0\green0\blue128;
+\red0\green128\blue128;
+\red0\green128\blue0;
+\red128\green0\blue128;
+\red128\green0\blue0;
+\red128\green128\blue0;
+\red128\green128\blue128;
+\red192\green192\blue192;
+\red0\green0\blue0;
+\red0\green0\blue0;
+\red228\green228\blue255;
+\red51\green51\blue153;
+\red230\green230\blue230;
+\red194\green214\blue155;
+\red79\green98\blue40;
+\red118\green146\blue60;
+\red204\green204\blue204;}
+{\stylesheet{\ql\fi0\li0\ri0\widctlpar\f1\fs20 Normal;}
+{\s1\basedon0\slink15\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel0\b\f1\fs28 heading 1;}
+{\s2\basedon0\slink16\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1\b\f1\fs24 heading 2;}
+{\s3\basedon0\slink17\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel2\b\f1\fs20 heading 3;}
+{\*\cs4\basedon10\slink15\ql\fi0\li0\ri0\nowidctlpar\f43\fs16\cf18 *code Char;}
+{\s5\basedon15\slink18\ql\fi-360\li360\ri0\widctlpar\brdrt\brdrs\brsp20\brdrcf20\brdrw10\brdrl\brdrs\brsp80\brdrcf20\brdrw10\brdrb\brdrs\brsp20\brdrcf20\brdrw10\brdrr\brdrs\brsp80\brdrcf20\brdrw10\cbpat19\f43\fs16 *comment;}
+{\*\cs6\basedon16\slink17\ql\fi0\li0\ri0\nowidctlpar\f43\fs16\cf18 *comment Char;}
+{\s7\basedon0\ql\fi0\li0\ri0\widctlpar\f2\fs16 * import;}
+{\*\cs8\basedon10\ql\fi0\li0\ri0\nowidctlpar\i\f43\fs20\cf18 *comment label;}
+{\*\cs10\ql\fi0\li0\ri0\nowidctlpar\f0\fs24 Default Paragraph Font;}
+{\*\ts11\tsrowd\trftsWidth0\trpaddl108\trpaddr108\trpaddfl3\trpaddfr3
+
+
+\ql\fi0\li0\ri0\widctlpar\sl276\slmult1\sa200\f0\fs22 Normal Table;}
+{\*\cs15\basedon10\slink1\ql\fi0\li0\ri0\nowidctlpar\b\f31502\fs32 Heading 1 Char;}
+{\*\cs16\basedon10\slink2\ql\fi0\li0\ri0\nowidctlpar\b\i\f31502\fs28 Heading 2 Char;}
+{\*\cs17\basedon10\slink3\ql\fi0\li0\ri0\nowidctlpar\b\f31502\fs26 Heading 3 Char;}
+{\s18\basedon0\slink35\ql\fi0\li0\ri0\widctlpar\brdrt\brdrs\brsp20\brdrcf20\brdrw10\brdrl\brdrs\brsp80\brdrcf20\brdrw10\brdrb\brdrs\brsp20\brdrcf20\brdrw10\brdrr\brdrs\brsp80\brdrcf20\brdrw10\cbpat19\f43\fs16\cf20 Code;}
+{\s19\basedon1\qc\fi0\li0\ri0\widctlpar\keepn\outlinelevel0\b\f1\fs28 Report Header;}
+{\s20\basedon3\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2\b\f1\fs20 Heading 3 - Indent;}
+{\s21\basedon0\ql\fi0\li720\ri0\widctlpar\f1\fs20 Text;}
+{\s22\basedon21\ql\fi-360\li1080\ri0\widctlpar\f1\fs20 Text - Citation;}
+{\s23\basedon0\slink24\ql\fi0\li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\f1\fs20 header;}
+{\*\cs24\basedon10\slink23\ql\fi0\li0\ri0\nowidctlpar\f1\fs20 Header Char;}
+{\s25\basedon0\slink26\ql\fi0\li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640\f1\fs20 footer;}
+{\*\cs26\basedon10\slink25\ql\fi0\li0\ri0\nowidctlpar\f1\fs20 Footer Char;}
+{\*\cs27\basedon10\ql\fi0\li0\ri0\nowidctlpar\f1\fs20 page number;}
+{\s29\basedon18\ql\fi-720\li720\ri0\widctlpar\brdrt\brdrs\brsp20\brdrcf15\brdrw10\brdrl\brdrs\brsp80\brdrcf15\brdrw10\brdrb\brdrs\brsp20\brdrcf15\brdrw10\brdrr\brdrs\brsp80\brdrcf15\brdrw10\cbpat21\f43\fs16\cf9 Description;}
+{\s32\basedon0\ql\fi-360\li360\ri0\widctlpar\brdrt\brdrs\brsp20\brdrcf20\brdrw10\brdrl\brdrs\brsp80\brdrcf20\brdrw10\brdrb\brdrs\brsp20\brdrcf20\brdrw10\brdrr\brdrs\brsp80\brdrcf20\brdrw10\cbpat19\f43\fs16\cf20 *code;}
+{\s34\basedon0\ql\fi-720\li720\ri0\widctlpar\brdrt\brdrs\brsp20\brdrcf15\brdrw10\brdrl\brdrs\brsp80\brdrcf15\brdrw10\brdrb\brdrs\brsp20\brdrcf15\brdrw10\brdrr\brdrs\brsp80\brdrcf15\brdrw10\cbpat21\tx360\f43\fs16\cf9 *desc;}
+{\*\cs35\slink18\ql\fi0\li0\ri0\nowidctlpar\f43\fs16\cf20 Code Char;}
+{\s36\ql\fi0\li720\ri0\widctlpar\b\f1\fs20 Catch-All Header;}}
+{\header \pard\plain\s23\ql\fi0\li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640 \f1\fs20{\par}
+}{\footer \trowd\irow0\irowband0\trgaph115\trleft0\trftsWidth2\trwWidth5000\trpaddl115\trpaddr115\trpaddfl3\trpaddfr3
+
+\trbrdrh\brdrs\brdrw10
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\clftsWidth2\clwWidth3988\cellx3988
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\clftsWidth2\clwWidth1012\cellx5000
+\pard\plain\s0\ql\fi0\li0\ri360\widctlpar\tx1440\tqr\tx7200\tqr\tx8460\intbl \i\f1\fs20{Report Generated on February 12, 2026}\cell
+\pard\plain\s0\qr\fi0\li0\ri0\widctlpar\tx1440\intbl \cs27\i\f1\fs20{Page }{\field{\*\fldinst PAGE }{\fldrslt {1}}}
+{ of }{\field{\*\fldinst NUMPAGES }{\fldrslt {12}}}
+\cell
+
+{\trowd\irow0\irowband0\trgaph115\trleft0\trftsWidth2\trwWidth5000\trpaddl115\trpaddr115\trpaddfl3\trpaddfr3
+
+\trbrdrh\brdrs\brdrw10
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\clftsWidth2\clwWidth3988\cellx3988
+\clvertalt\clbrdrt\brdrnone\clbrdrl\brdrnone\clbrdrr\brdrnone\clbrdrb\brdrnone\cltxlrtb\clftsWidth2\clwWidth1012\cellx5000
+\row}
+\pard\plain\s25\ql\fi0\li0\ri0\widctlpar\tqc\tx4320\tqr\tx8640 \f1\fs20{\par}
+}\fs24
+\pard\plain\s7\ql\fi0\li0\ri0\widctlpar \f2\fs16{}\par
+\pard\plain\s19\qc\fi0\li0\ri0\widctlpar\keepn\outlinelevel0 \b\f1\fs28{George W. Clark}\par
+\pard\plain\s0\qc\fi0\li0\ri0\widctlpar \f1\fs20{University of South Alabama}\par
+\pard\plain\s0\qc\fi0\li0\ri0\widctlpar \f1\fs20{Computer Science}\par
+\pard\plain\s0\qc\fi0\li0\ri0\widctlpar \f1\fs20{(251)-460-7639}\par
+\pard\plain\s0\qc\fi0\li0\ri0\widctlpar \f1\fs20{Email: georgewclark@southalabama.edu}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f2\fs24{Education}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f2\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f2\fs20{Ph D, University of South Alabama, 2019.}\par
+\pard\plain\s22\ql\fi0\li1080\ri0\widctlpar \f2\fs20{Major: Computing}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f2\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f2\fs20{MS, University of South Alabama, 1999.}\par
+\pard\plain\s22\ql\fi0\li1080\ri0\widctlpar \f2\fs20{Major: Computer Science}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f2\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f2\fs20{BSEE, University of South Alabama, 1992.}\par
+\pard\plain\s22\ql\fi0\li1080\ri0\widctlpar \f2\fs20{Major: Electrical Engineering}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Academic, Government, Military and Professional Positions}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f4\fs20{}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f4\fs20{Academic - Post-Secondary}\par
+\pard\plain\s21\ql\fi0\li0\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Assistant Professor of Computer Information Systems, Spring Hill College. (August 2018 - August 2022).}\par
+\pard\plain\s21\ql\fi0\li0\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Adjunct Instructor - Computer Science, University of South Alabama. (August 2017 - May 2018).}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f4\fs20{}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f4\fs20{Professional}\par
+\pard\plain\s21\ql\fi0\li0\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Senior Control Systems Engineer, Precision Engineering Inc. (June 2007 - January 2017).}\par
+\pard\plain\s21\ql\fi0\li0\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Engineering Manager/Software Engineer, Mentor Graphics Corporation. (April 2000 - April 2007).}\par
+\pard\plain\s21\ql\fi0\li0\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Software Engineer, Sterling Commerce Inc. (April 1999 - April 2000).}\par
+\pard\plain\s21\ql\fi0\li0\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Embedded Software Engineer/Team Lead, Accelerated Technology Inc. (December 1997 - April 1999).}\par
+\pard\plain\s21\ql\fi0\li0\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Software Engineer/Manager, Omniphone Inc. (October 1992 - December 1997).}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Licensures and Certifications}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Professional Engineer License, Alabama Board of Licensure for Professional Engineers and Land Surveyors. (December 18, 2014 - December 18, 2023).}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Professional Memberships}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Sigma Beta Delta Honors Society. (April 2022 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Upsilon Pi Epsilon Honors Society. (April 2018 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Association for Computing Machinery. (March 2017 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Senior Member, Institute of Electrical and Electronics Engineers. (August 2015 - Present).}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Development Activities Attended}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Biweekly SCALES Zoom Meetings, "Southeastern Consortium for Assured Leading-Edge Semiconductors," University of Florida, Gainesville, Florida, USA. (March 31, 2023 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Weekly Research Group Meetings, "Software Protection Exploitation Research Group (SPERG)," School of Computing, Mobile, AL, USA. (August 26, 2022 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "Foreign Influence and Security," Office of Research Compliance University of South Alabama, Mobile, AL, USA. (October 23, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "Overview of Data Driven Research," Office of Research Compliance University of South Alabama, Mobile, AL, USA. (September 11, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "Introduction to Intellectual Property," Office of Research Compliance University of South Alabama, Mobile, AL, USA. (August 28, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Conference Attendance, "International Conference on Robotics and Automation," IEEE, Atlanta, GA, USA. (May 18, 2025 - May 23, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Seminar, "NSF Foundation-Wide CAREER Program Webinar," NSF, Alexandria, VA, USA. (May 14, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Seminar, "NSF CISE Career Proposal Writing Webinar," NSF, Alexandria, VA, USA. (May 2, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Conference Attendance, "IEEE International Conference on PHYSICAL ASSURANCE and INSPECTION of ELECTRONICS (PAINE)," IEEE, Huntsville, AL, USA. (November 11, 2024 - November 14, 2024).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Conference Attendance, "International Conference on Physical Assurance and Inspection of Electronics (PAINE)," IEEE, Huntsville, AL, USA. (November 11, 2024 - November 14, 2024).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "Predatory Publishing: Distinguishing the Good from the Bad," Office of Research Compliance University of South Alabama, Mobile, AL, USA. (April 25, 2024).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "Authorship, Publication Practices, Preprints, and Hyperauthorship," Office of Research Compliance University of South Alabama, Mobile, AL, USA. (March 21, 2024).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "Conflict of Interest Responsible Conduct of Research," Office of Research Compliance University of South Alabama, Mobile, AL, USA. (2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "IRB Basics Responsible Conduct of Research," Office of Research Compliance University of South Alabama, Mobile, AL, USA. (2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Conference Attendance, "NSF Grants Conference," NSF, Alexandria, Virginia, USA. (December 4, 2023 - December 7, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Innovation Expo, "A Gallery Walk of Tech Tools for Learning," ILC, Mobile, Alabama, USA. (October 25, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "School of Computing Advising Workshop," School of Computing - University of South Alabama, Mobile, Alabama, USA. (October 2, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "Industrial Control Systems--Renewable Energy (ICS-RE) Security Faculty Development Workshop," CAE @ University of West Florida, Pensacola, Florida, USA. (July 10, 2023 - July 14, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Webinar, "ExLENT (NSF 23-507) Q&A Webinar," NSF, Alexandria, Virginia, USA. (June 6, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Transitioning from the profession to the classroom," ILC, Mobile, AL, USA. (April 24, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "NSF CISE Career Workshop," NSF, Alexandria, VA, USA. (April 17, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Open Educational Resources," ILC, Mobile, AL, USA. (February 27, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Recently Tenured Roundtable," ILC, Mobile, AL, USA. (February 17, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Small Teaching on Belonging," ILC, Mobile, AL, USA. (February 8, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Watermark / Faculty Success," ILC, Mobile, AL, USA. (January 30, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Training Presentation, "Active Shooter Training," University of South Alabama, Mobile, Alabama, USA. (January 27, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Conference Attendance, "Florida Semiconductor Week," University of Florida, Gainesville, FL, USA. (January 23, 2023 - January 25, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars Community Lunch - ILC End of Semester," ILC, Mobile AL, USA. (December 9, 2022).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Local Tea Party at the Archeology Museum," ILC, Mobile, AL, USA. (November 3, 2022).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Conference Attendance, "International Conference on PHYSICAL ASSURANCE and INSPECTION of ELECTRONICS," IEEE, Huntsville, AL, USA. (October 24, 2022 - October 26, 2022).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Promotion and Tenure Roundtable with the Deans," ILC, Mobile, AL, USA. (October 13, 2022).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Community Lunch with Julie Estes," ILC, Mobile, AL, USA. (October 6, 2022).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars - Research and Publications with Angela Jordan," ILC, Mobile, AL, USA. (September 29, 2022).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Workshop, "New Faculty Scholars Community Lunch - ILC Intro," ILC, Mobile AL, USA. (September 16, 2022).}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\qc\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs24{TEACHING}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs24{Teaching Experience}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{University of South Alabama}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 494, Directed Studies, 1 course.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 499, CIS Senior Honors Project - H, 2 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 594, Directed Studies -, 3 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 595, CIS Research Development, 4 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 599, CIS Thesis, 3 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 694, Directed Study -, 3 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 320, Computer Org-Architect, 3 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 333, Prog Language Theory, 1 course.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 460, Security of HW Implementations, 1 course.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 485, Cyber-Physical Security, 3 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 490, Special Topics, 1 course.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 520, Computer Architecture, 2 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 560, Security of HW Implementations, 1 course.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 582, Network Security, 1 course.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 585, Cyber-Physical Security, 3 courses.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 590, CSC Sp Top -, 1 course.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CSC 612, Cybersecurity, 2 courses.}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Non-Credit Instruction}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{INSURE, 7 participants. (August 2023 - December 2023).}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Directed Student Learning}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Master's Thesis Committee Chair, "USING SIAMESE NEURAL NETWORKS TO EFFECTIVELY DETECT TROJANS IN FPGAS, WHEN TROJANS MANIPULATE ENCRYPTION OPERATIONS AT THE BITSTREAM LEVEL," Computer Science. (January 2025 - Present).}\line {\fs20 Advised: Kylie Arnett}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Master's Thesis Committee Member, "DEVELOPING A FRAMEWORK FOR MICROCHIP DESIGN RECOVERY," Computer Science. (January 2025 - Present).}\line {\fs20 Advised: Eric Diep}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Dissertation Committee Member, Information Systems and Technology. (January 2024 - Present).}\line {\fs20 Advised: Rick Green}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Directed Individual/Independent Study, "Understanding the Current Applications of NLPSA and Algorithms of Robot Path Planning," Computer Science. (August 15, 2025 - December 1, 2025).}\line {\fs20 Advised: Samiul Alam}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Master's Thesis Committee Chair, "NONLINEAR PHASE SPACE ANALYSIS FOR ANOMALY DETECTION IN ROS 2 COMMUNICATIONS: DETECTING MAN-IN-THE-MIDDLE ATTACKS IN SIMULATED ENVIRONMENTS," Computer Science. (January 2025 - December 1, 2025).}\line {\fs20 Advised: William Locklier}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Dissertation Committee Member, "A NOVEL BLOCKCHAIN BASED FRAMEWORK FOR SECURE AND PRIVACY PRESERVING E-GOVERNANCE SYSTEM," Computer Science. (August 15, 2022 - December 1, 2025).}\line {\fs20 Advised: Naveen Pendli}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Directed Individual/Independent Study, "Nonlinear Phase Space Analysis for Anomaly Detection in ROS 2 Communications: Detecting Man-in-the-Middle Attacks in Simulated Environments," Computer Science. (June 1, 2025 - August 5, 2025).}\line {\fs20 Advised: William Locklier}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Directed Individual/Independent Study, "Cyberattacks on Automobiles and Robots: A Survey," Computer Science. (June 1, 2025 - August 1, 2025).}\line {\fs20 Advised: Samiul Alam}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Directed Individual/Independent Study, "Automotive Intrusion Detection System: A Review," Computer Science. (June 1, 2025 - August 1, 2025).}\line {\fs20 Advised: Samiul Alam}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Master's Thesis Committee Chair, "ADVERSARIAL ATTACKS AND DEFENSE METHODS IN ROBOTIC SYSTEMS," Computer Science. (August 20, 2024 - July 30, 2025).}\line {\fs20 Advised: Thanh Le}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Undergraduate Honors Thesis, "A Comparison of Robot Path Planning Algorithms," Computer Science. (January 8, 2024 - May 1, 2025).}\line {\fs20 Advised: Miguel Gapud}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Master's Thesis Committee Chair, "FREQUENCY LEARNING POWER ANALYSIS MULTI-DEVICE ATTACK," Computer Science. (January 8, 2024 - April 2025).}\line {\fs20 Advised: Berk Kivilcim}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Dissertation Committee Member, "OUT-OF-BAND ANOMALY DETECTION FOR REAL TIME OPERATING SYSTEMS," Information Systems and Technology. (January 2024 - April 2025).}\line {\fs20 Advised: Jeff Holifield}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Dissertation Committee Member, "USE OF INTRUSION DETECTION SYSTEMS IN VEHICULAR CONTROLLER AREA NETWORKS TO PRECLUDE REMOTE ATTACKS," Computer Science. (August 15, 2022 - April 2025).}\line {\fs20 Advised: Anthony Monge}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Master's Thesis Committee Chair, "CLASSIFYING SUPERSONIC FREQUENCIES FOR ACTIVE ACOUSTIC SIDE-CHANNEL EXPLOITATION," Computer Science. (August 15, 2022 - December 13, 2024).}\line {\fs20 Advised: Destin Hinkle}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Directed Individual/Independent Study, "Comparative Analysis of Design Challenges in Civilian and Military Robotics: A Survey," Computer Science. (January 8, 2024 - May 6, 2024).}\line {\fs20 Advised: Zachary Neal}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Directed Individual/Independent Study, "CLASSIFYING SUPERSONIC FREQUENCIES FOR ACTIVE ACOUSTIC SIDE-CHANNEL EXPLOITATION," Computer Science. (January 15, 2024 - May 1, 2024).}\line {\fs20 Advised: Destin Hinkel}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Dissertation Committee Member, "REMOTE SIDE-CHANNEL DISASSEMBLY ON FIELD-PROGRAMMABLE GATE ARRAYS," Computer Science. (August 15, 2022 - December 15, 2023).}\line {\fs20 Advised: Brandon Baggett}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs24{Teaching Experience at Other Institutions}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Spring Hill College}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 115, Applications in Computer Information Systems, Undergraduate.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 221, Introduction to Object-Oriented Programming, Undergraduate.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 322, Advanced Object-Oriented Programming, Undergraduate.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 381, Information Systems, Undergraduate.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 382, Database Management Systems, Undergraduate.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{CIS 495, Introduction to Robotics, Undergraduate.}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\qc\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs24{RESEARCH}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs24{Published Intellectual Contributions}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Refereed Journal Articles}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Hinkel, D., Clark, G. W., McDonald, J. T., Van de Waa, A. (2025). Classifying Supersonic Frequencies for Active Acoustic Side-Channel Exploitation. }{\i Association for Computing Machinery}{. https://doi.org/10.1145/3786765}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., Andel, T. R., McDonald, J. T., Johnsten, T., Thomas, T. (2024). Detection and defense of cyberattacks on the machine learning control of robotic systems. }{\i The Journal of Defense Modeling and Simulation: Applications, Methodology, Technology, 21}{(2), 181-203. https://doi.org/10.1177/15485129211043874}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Conference Proceedings}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Le, T., Clark, G. W., McDonald, J. T., Gong, N. (in press). }{\i Defense Methods for Adversary Patches in Autonomous Robotic Systems}{. Huntsville, AL: IEEE SoutheastCon 2026.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Locklier, W., Clark, G. W., McDonald, J. T. (in press). }{\i Detecting ROS 2 Man-in-the-Middle Attacks in Simulated Environments with NLPSA}{. Huntsville, AL: IEEE SoutheastCon 2026.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Gapud, M., Clark, G. W., McDonald, J. T., Gong, N. (2026). }{\i Classical vs. End-to-End Learning Approaches to Robot Pathfinding in Digital Twin Environments}{ (pp. 1 - 8). Grand Forks, ND: IEEE Cyber Awareness and Research Symposium 2025 (CARS 2025). https://ieeexplore.ieee.org/document/11337622}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Oswald, W., Clark, G. W., McDonald, J. T. (2026). }{\i Survey on Counterfeit and Malicious Design Alterations to Integrated Circuits}{ (pp. 1 - 7). Denver, CO: IEEE International Conference on Physical Assurance and Inspection of Electronics 2025 (PAINE 2025).}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., McDonald, J. T., Andel, T. R. (2024). Broadening the Semiconductor Talent Pipeline with Non-Engineering Students. }{\i 2024 IEEE Physical Assurance and Inspection of Electronics (PAINE)}{ (pp. 1-7). IEEE. https://doi.org/10.1109/paine62042.2024.10792744}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Hinkel, D., Buie, A., Surles, A., Clark, G. W. (2023). }{\i Attack Vectors Against ICS: A Survey}{ (pp. 8). Twenty Second International Conference on Security & Management (SAM 2023).}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Carson, J., Hollingsworth, K., Datta, R., Clark, G. W., Segev, A. (2021). }{\i A hybrid decision tree-neural network (dt-nn) model for large-scale classification problems}{ (pp. 4103-4111). 2020 IEEE International Conference on Big Data (Big Data).}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., Andel, T. R., Doran, M. V. (2019). Simulation-Based Reduction of Operational and Cybersecurity Risks in Autonomous Vehicles. }{\i 2019 IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)}{ (pp. 140-146). 2019 IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA). https://doi.org/10.1109/cogsima.2019.8724160}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., Doran, M. V. (2018). }{\i Machine Learning Security Vulnerabilities in Cyber-Physical Systems}{ (pp. 41-46). Proceedings of The 9th International Multi-Conference on Complexity, Informatics and Cybernetics (IMCIC 2018).}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Doran, M. V., Clark, G. W. (2018). Enhancing Robotic Experiences throughout the Computing Curriculum. }{\i Proceedings of the 49th ACM Technical Symposium on Computer Science Education}{ (pp. 368-371). ACM. https://doi.org/10.1145/3159450.3159580}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., Doran, M. V., Glisson, W. B. (2018). }{\i A malicious attack on the machine learning policy of a robotic system}{ (pp. 516-521). 2018 17th IEEE International Conference On Trust, Security And Privacy In Computing And Communications/12th IEEE International Conference On Big Data Science And Engineering (TrustCom/BigDataSE).}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., Doran, M. V., Andel, T. R. (2017). Cybersecurity issues in robotics. }{\i 2017 IEEE Conference on Cognitive and Computational Aspects of Situation Management (CogSIMA)}{ (pp. 1-5). IEEE. https://doi.org/10.1109/cogsima.2017.7929597}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Doran, M. V., Landry, J. P., Clark, G. W. (1999). }{\i The Impact of Software Development Methodologies on Reuse}{ (pp. 44-51). 1999 International Association for Computer Information Systems.}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Doran, M. V., Niccolai, M. J., Clark, G. W. (1998). }{\i An Empirical Study of Reuse in Software Development}{ (pp. 419-426). International Association for Computer Information Systems.}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Other}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W. (in press). }{\i Towards Industrial Cyber Security: An Examination of Side Channel Attacks with regards to Industry 4.0}{. International Conference on Cyber Warfare and Security.}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Presentations Given}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Clark, G. W. (Author & Presenter), EDGE AI / SARJ Project Meeting, "An Investigation of Cyberattacks on Edge AI Components of Self Driving Vehicles," NSF EDGE AI Grant, online. (December 2, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Pathuri, S. R. (Author & Presenter), Clark, G. W. (Author), Lohar, B. R. (Author), Advanced Systems Research Laboratory (ASRL) Day (1st Founding Anniversary), "Publication Preview Source Model-Based Systems Engineering (MBSE) for Integration of Cyber-Physical Systems," University of South Alabama, Mobile, Alabama. (September 15, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Clark, G. W. (Author & Presenter), McDonald, J. T. (Author), Andel, T. R. (Author), IEEE International Conference on PHYSICAL ASSURANCE and INSPECTION of ELECTRONICS (PAINE), "Broadening the Semiconductor Talent Pipeline with Non-Engineering Students," IEEE, Huntsville, AL. (November 14, 2024).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{McKinney, D. M. A. (Author & Presenter), Clark, G. W. (Author & Presenter), Conference on Teaching and Learning, "The Impact of an Innovative Learning Environment for a Programming Course," ILC - University of South Alabama, University of South Alabama. (May 7, 2018).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Clark, G. W., ACM Mid-Southeast Fall Conference, "An Evaluation of Attacks on the Machine Learning Policy of a Robotic System," Mid-Southeast Chapter of the ACM, Gatlinburg, TN. (November 10, 2017).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Clark, G. W., Digital Forensics Information Intelligence Research Group, "An Evaluation of Attacks on the Machine Learning Policy of a Robotic System," School of Computing, Mobile AL. (November 8, 2017).}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs24{Contracts, Grants and Sponsored Research}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Contract}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s0\ql\fi0\li720\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Currently Under Review}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{McDonald, J. T. (Principal), Clark, G. W. (Co-Principal), Segev, A. (Co-Principal), Johnsten, T., Benton, R. G., Shropshire, J. D. (Co-Principal), Bourrie, D. M., "Project Gemini," Sponsored by US Army SMDC, External to the University, $3,804,341.00. (January 2025 - July 2028).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s0\ql\fi0\li720\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Not Funded}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{McDonald, J. T. (Principal), Clark, G. W. (Co-Principal), Shropshire, J. D. (Co-Principal), "Semi-Autonomous X-ray Non-Destructive Inspection System," Sponsored by Sentiont, LLC, External to the University, $12,000.00. (November 1, 2024 - February 28, 2025).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s0\ql\fi0\li720\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Other}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{McDonald, J. T. (Principal), Clark, G. W. (Co-Principal), Segev, A. (Co-Principal), Johnsten, T., Benton, R. G., Shropshire, J. D. (Co-Principal), Green, R. E., Holifield, J. K., Bourrie, D. M., Black, M. E., Huang, J., "Project Orion," Sponsored by US Army SMDC, External to the University, $8,000,000.00. (November 1, 2023 - February 1, 2026).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Grant}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s0\ql\fi0\li720\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Funded}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Andel, T. R. (Principal), McDonald, J. T. (Co-Principal), Clark, A. M. (Co-Principal), Clark, G. W. (Co-Principal), "2022 Renewal for USA Cyber Scholars Program," Sponsored by National Science Foundation, Federal, $3,320,319.00. (June 1, 2022 - May 31, 2027).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{NSF 21-580 CyberCorps(R) Scholarship for Service}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., "Detecting Man in the Middle Attacks in Robot Communications Using a Nonlinear Phase Space Algorithm," Sponsored by University of South Alabama, Internal to the University, $25,000.00. (May 15, 2025 - May 14, 2026).}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=Z2Vvcmdld2NsYXJrL2NvbmdyYW50L1VTQV9GYWN1bHR5X0RldmVsb3BtZW50X0dyYW50XzI1S19GdWxsX1Byb3Bvc2FsXzIwMjQtMS5wZGY%3D&surId=18285729&nodeId=140178&sdId=156286163&sdSurId=18285729&rptId=1676&ver=2&sgntr=s1xws%2BxJRW8n5YyI7zHAnKxTU8w%3D" }}{\fldrslt {{\fs20 USA_Faculty_Development_Grant_25K_Full_Proposal_2024-1.pdf}}}}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=Z2Vvcmdld2NsYXJrL2NvbmdyYW50L0NsYXJrIFJTREcgMjAyNSBhd2FyZCBsZXR0ZXItMS5wZGY%3D&surId=18285729&nodeId=140178&sdId=156286163&sdSurId=18285729&rptId=1676&ver=2&sgntr=ao%2FzjGpIhgfR6USrFQxkP08L5vM%3D" }}{\fldrslt {{\fs20 Clark RSDG 2025 award letter-1.pdf}}}}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., "An Investigation of Cyberattacks on Edge AI Components of Self-Driving Vehicles," Sponsored by NSF 2023 Seed Awards for Researchers at Junior Level (SARJ), Internal to the University, $15,000.00. (February 1, 2024 - January 31, 2025).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Self-driving vehicles are becoming increasingly popular, but they are also susceptible to cybersecurity attacks. These attacks can target the hardware, firmware/operating system, and application layers of the vehicle, as well as the machine learning model.}\line \line {\fs20 A relatively new architecture for autonomous driving is the end-to-end system. In this system, sensor inputs are directly connected to a deep learning neural network, which controls the steering, braking, and acceleration of the vehicle. End-to-end systems can be trained using imitation learning or reinforcement}\line {\fs20 learning. While reinforcement learning is more efficient, it is also more susceptible to cyberattacks.}\line \line {\fs20 The goal of this research is to develop a self-driving vehicle that uses an end-to-end system architecture}\line {\fs20 as an Edge AI test platform for cybersecurity research. This research will help to identify and mitigate the}\line {\fs20 security challenges posed by end-to-end autonomous driving systems.}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=Z2Vvcmdld2NsYXJrL2NvbmdyYW50L1NBUkpfTlNGX0dyYW50LTMtMS5wZGY%3D&surId=18285729&nodeId=140178&sdId=146415126&sdSurId=18285729&rptId=1676&ver=2&sgntr=N5dIHBDDBze3kh8EENLCrVTDWgw%3D" }}{\fldrslt {{\fs20 SARJ_NSF_Grant-3-1.pdf}}}}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=Z2Vvcmdld2NsYXJrL2NvbmdyYW50L1NBUkogQXdhcmQgRW1haWwtMS5wZGY%3D&surId=18285729&nodeId=140178&sdId=146415126&sdSurId=18285729&rptId=1676&ver=2&sgntr=53ZlzvyI9n%2BMZ41T%2Fmi6Ra8PA7Y%3D" }}{\fldrslt {{\fs20 SARJ Award Email-1.pdf}}}}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., "A Comparison of Invasive vs. Non-Invasive Side-Channel Analysis Attacks," Sponsored by Faculty Development Grant Council Program, Internal to the University, $5,000.00. (January 1, 2023 - December 31, 2023).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Cyber-physical systems are susceptible to side-channel analysis (SCA) attacks during the cryp- tosystem process [1]. Using Di\u8629 erential Power Analysis (DPA), Electromagnetic (EM) radiation, and other SCA attacks, adversaries can correlate physical elements such as power usage and current flow to determine the bit pattern of a secret crypto key during the decryption process.}\line {\fs20 Previous research at the University of South Alabama has examined SCA vulnerabilities and their defense by analyzing EM radiation leakage of an integrated circuit (IC) with success [2]. This research will go further by removing the physical cover of a microprocessor to gain access to the integrated circuits on its silicon wafer. The removal of this barrier will lead to improved analysis and open new areas of research such as fault injection attacks of an IC via laser. The project will require purchasing a high-power laboratory microscope.}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=Z2Vvcmdld2NsYXJrL2NvbmdyYW50L1VTQV9GREdfR2VvcmdlQ2xhcmstMS5wZGY%3D&surId=18285729&nodeId=140178&sdId=124798482&sdSurId=18285729&rptId=1676&ver=2&sgntr=H5JrkqWJ8OY01bU1WJJRcnfXPz8%3D" }}{\fldrslt {{\fs20 USA_FDG_GeorgeClark-1.pdf}}}}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=Z2Vvcmdld2NsYXJrL2NvbmdyYW50L0F3YXJkIE5vdGlmaWNhdGlvbi0xLnBkZg%3D%3D&surId=18285729&nodeId=140178&sdId=124798482&sdSurId=18285729&rptId=1676&ver=2&sgntr=ApkMkKXTnSbk%2BhqmkNL0JCxthOE%3D" }}{\fldrslt {{\fs20 Award Notification-1.pdf}}}}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s0\ql\fi0\li720\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Currently Under Review}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., "CAREER," Sponsored by National Science Foundattion, External to the University, $472,228.00. (2026 - Present).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Current methods of classification using neural networks are susceptible to adversarial attacks. Neural}\line {\fs20 networks can be misled by these attacks because they are trained on large datasets that can generalize poorly}\line {\fs20 on unseen data. Attackers exploit this vulnerability by crafting adversarial samples consisting of undetectable}\line {\fs20 perturbations to the input data. In the real world, these attacks can have serious consequences, such as}\line {\fs20 an autonomous vehicle misinterpreting a stop sign. Research on defense against these attacks focuses on}\line {\fs20 adversarial training, where AI models are trained on benign and adversarial samples. However, training AI}\line {\fs20 models on every possible adversarial sample is time consuming and unrealistic. Ideally, robot systems should}\line {\fs20 be able to detect adversarial attacks on their AI models in real-time to prevent potentially dire outcomes.}\line {\fs20 The project will proceed in four thrusts:}\line {\fs20 \bullet  Thrust 1 will involve establishing robotic simulation and physical testbeds for adversarial attacks and}\line {\fs20 developing adversarial threat models that target the testbed robots\rquote  perception system.}\line {\fs20 \bullet  Thrust 2 will entail collecting side-channel data (e.g. power traces, timing data) under normal and}\line {\fs20 adversarial conditions. Data preprocessing and validation will also be performed in this thrust.}\line {\fs20 \bullet  Thrust 3 will encompass reconstructing the robot\rquote s system dynamics by creating and analyzing phase}\line {\fs20 space graphs to identify normal behavior from adversarial behavior.}\line {\fs20 \bullet  Thrust 4 will integrate the detection system into a functional prototype via a commercial edge device that}\line {\fs20 will attach to an existing robot enabling passive monitoring of the onboard AI system without modifying}\line {\fs20 its internal software.}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=Z2Vvcmdld2NsYXJrL2NvbmdyYW50L05TRl9DQVJFRVJfR3JhbnRfUHJvcG9zYWxfMjAyNV9HVF9UZW1wbGF0ZS0xLnBkZg%3D%3D&surId=18285729&nodeId=140178&sdId=176417004&sdSurId=18285729&rptId=1676&ver=2&sgntr=05Sh9T7bWmzx0TfMMuC4OKH%2F%2BW4%3D" }}{\fldrslt {{\fs20 NSF_CAREER_Grant_Proposal_2025_GT_Template-1.pdf}}}}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s0\ql\fi0\li720\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Not Funded}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Clark, G. W., "Robot Path Planning Algorithms using a Digital Twin," Sponsored by Research and Scholarly Development Grant Proposal 2023, Internal to the University, $25,000.00. (January 1, 2024 - December 31, 2024).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Robots, such as autonomous vehicles, are increasingly operating in collaborative environments with human beings. Given the risk posed by these large autonomous robots, the algorithms and machine learning models used for path planning must be both accurate and efficient. The objective of this research will be to compare}\line {\fs20 traditional path planning algorithms Hybrid A* and D* Lite (pronounced Hybrid A star and D star Lite) along with the Proximal Policy Optimization algorithm which employs reinforcement learning using neural networks. The research will be conducted in two phases.}\line \line {\fs20 In phase 1 of this research, a simulation environment will be created for comparing the path planning methods. In this phase, a virtual model or digital twin will be created that accurately represents Shelby Hall. The digital twin and a virtual model of the Jackal robot will be loaded onto the Unity 3D simulation platform. The three path planning methods will be implemented, evaluated, and compared in the simulation environment. In phase 2 the implementation and training data from the simulation will be transferred to a physical Jackal robot for use in the actual Shelby Hall. The path planning methods will again be evaluated and compared with the evaluation results obtained from the virtual environment.}\line \line {\fs20 The data and results collected from this research will provide insight into which path planning algorithm is more accurate and more efficient. Additionally, the development of the digital twin, simulation environment, and Jackal robot artifacts will be useful in future robotics research conducted in the School of Computing.}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=Z2Vvcmdld2NsYXJrL2NvbmdyYW50L1VTQV9GYWN1bHR5X0RldmVsb3BtZW50X0dyYW50XzI1S19GdWxsX1Byb3Bvc2FsLTItMS5wZGY%3D&surId=18285729&nodeId=140178&sdId=146415190&sdSurId=18285729&rptId=1676&ver=2&sgntr=bfMga9v2j0Ie39FlR3JFzC51F%2Fk%3D" }}{\fldrslt {{\fs20 USA_Faculty_Development_Grant_25K_Full_Proposal-2-1.pdf}}}}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Benton, R. G. (Principal), Andel, T. R. (Co-Principal), Black, M. E. (Supporting), Borchert, G. M. (Supporting), Bourrie, D. M. (Supporting), Chow, A. (Supporting), Clark, G. W. (Co-Principal), Davidson, C. C. (Supporting), Green, R. E. (Supporting), Johnsten, T. (Supporting), Langley, R. (Supporting), McDonald, J. T. (Supporting), Russ, S. H. (Co-Principal), Shaban, M. (Supporting), Benton, G. (Co-Principal), "MRI Internal Competition: Development of FPGA/GPU Cluster for Machine Learning and Cyber-Security Algorithms (002879)," Sponsored by Research and Economic Development, University of South Alabama, Internal to the University, $807,041.00. (February 21, 2023).}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{The goal of this application was to compete in an internal competition; the competition was designed to select which ideas could be submitted to the NSF Major Research Instrumentation grant for February 2023.  The idea that was submitted by this group was to develop a GPU and FPGA enabled Machine Learning and Cyber-Security Cluster. The two fields have been slowly incorporating the other perspective to achieve more robust solutions, although they obviously have applications independent of each other. Cyber-Security have been incorporating Machine Learning methodologies to detect malware, discover potential compromises and to detect zero-day challenges. At the same time, security of the ML systems are becoming an increasing topic of focus, as the ML pipeline has multiple points of attack, which can compromise the value and effectiveness of the ML operation.}\par
+\pard\plain\s36\ql\fi0\li1080\ri0\widctlpar \f1\fs20\cf2\ul{}{\field{\*\fldinst { HYPERLINK "https://www.digitalmeasures.com/login/southalabama/sso/survey/ui/showFile?file=cmJlbnRvbi9jb25ncmFudC9NUkkgMjAyMl8yMDIzIExPSV9VcGRhdGVkLTEucGRm&surId=18285729&nodeId=140178&sdId=125308028&sdSurId=18285729&rptId=1676&ver=2&sgntr=viyXwL%2BmX3rQnchbKCQbOUhiscE%3D" }}{\fldrslt {{\fs20 MRI 2022_2023 LOI_Updated-1.pdf}}}}\par
+\pard\plain\s0\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Awards and Honors}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{1st Place Graduate Presentation at 2017 ACM Mid-Southeast Conference, Association for Computing Machinery, Mid-Southeast. (November 2017).}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs24{Intellectual Contributions in Submission}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{}\par
+\pard\plain\s20\ql\fi0\li360\ri0\widctlpar\keepn\outlinelevel2 \b\f1\fs20{Conference Proceedings}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f1\fs20{Alam, S., Clark, G. W. }{\i AutomotiveIDS: A Review of ML Techniques and Introducing NLPSA to Robotics}{. Savannah, GA: International Conference on Artificial Intelligence, Robotics, and Control.}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f43\fs16\cf20{}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\qc\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f1\fs24{SERVICE}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Editorial and Review Activities}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Invited Manuscript Reviewer, "Reinforcement Learning and Hidden Markov Models for Simulating and Analyzing Social Engineering Attacks," 59th Hawaii International Conference on System Sciences (HICSS). (June 24, 2025).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Invited Manuscript Reviewer, "2025 International Conference on Robotics and Automation (ICRA)," IEEE. (November 2, 2024 - November 16, 2024).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Invited Manuscript Reviewer, "CuMONITOR: Continuous Monitoring of Microarchitecture for Software Task Identification and Classification," Digital Threats: Research and Practice (DTRAP). (December 3, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Invited Manuscript Reviewer, "A Review on Security Implementations in Soft-Processors for IoT Applications," Computers and Security. (November 13, 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Invited Manuscript Reviewer, "Safe Reinforcement Learning via Observation Shielding," 56th Hawaii International Conference on System Sciences (HICSS). (August 1, 2022).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Invited Manuscript Reviewer, "The Role of Machine Learning in Cybersecurity for Digital Threats: Research and Practice," Digital Threats: Research and Practice (DTRAP). (February 13, 2022).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Invited Manuscript Reviewer, "Obstacles to Adopting Speech Recognition in Emergency Services Solutions," Americas Conference on Information Systems. (March 26, 2018).}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{Department Service}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Committee Member, Computer Science Curriculum Committee. (November 17, 2022 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Committee Member, CS Faculty Search Committee. (September 26, 2023 - September 30, 2024).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Committee Member, Faculty CS Search Committee. (April 20, 2023 - December 2023).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Committee Member, Faculty CS Search Committee. (February 2, 2023 - April 2023).}\par
+\pard\plain\s0\qj\fi0\li0\ri0\widctlpar \f1\fs20{}\par
+\pard\plain\s2\ql\fi0\li0\ri0\widctlpar\keepn\outlinelevel1 \b\f4\fs24{University Service}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Faculty Advisor, Society of Automotive Engineers. (October 2025 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Faculty Advisor, USA Robotics Club. (January 2025 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Committee Member, Faculty Development Council. (August 21, 2023 - Present).}\par
+\pard\plain\s21\ql\fi0\li720\ri0\widctlpar \f4\fs20{}\par
+\pard\plain\s22\ql\fi-360\li1080\ri0\widctlpar \f4\fs20{Committee Member, Scholarship and Financial Aid Committee. (August 15, 2022 - Present).}\par
+\pard\plain\s0\ql\fi0\li0\ri0\widctlpar \f1\fs20{}\par}
